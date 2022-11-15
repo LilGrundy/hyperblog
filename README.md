@@ -14,5 +14,6 @@ En este curso vemos de todo :
 - Trucos o atajos
 - creado por el increible Platzi team
 - incluye ejemplos en windows y linux
+- disponible para todas las edades
 
 Como recordatorio: **Este readme.md es un ejemplo**. Diseñado para demostracion.
