@@ -12,5 +12,6 @@ En este curso vemos de todo :
 - El flujo de trabajo en Github
 - Buenas practicas
 - Trucos o atajos
+- creado por el increible Platzi team
 
 Como recordatorio: **Este readme.md es un ejemplo**. Diseñado para demostracion.
